@@ -7,7 +7,7 @@ The system allows users to manage employee records through a simple `JOptionPane
 ## Features
 
 * Insert employee records in ascending order by Employee ID.
-* Validate Employee ID range from **150 to 250** when adding a record.
+* Validate Employee ID from **150 to 250** when adding a record.
 * Prevent duplicate Employee IDs.
 * Display all employee records.
 * Search for an employee by ID.
@@ -66,10 +66,10 @@ Salary Increase = Current Salary × 0.02 × Extra Hours
 
 ## How to Run
 
-1. Open the project in a Java IDE.
+1. Open the Java project in a compatible Java IDE.
 2. Open `Project_Data_Structures.java`.
 3. Run the `main()` method.
-4. Use the menu to manage employee records.
+4. Use the displayed menu to manage employee records.
 
 ## Author
 
